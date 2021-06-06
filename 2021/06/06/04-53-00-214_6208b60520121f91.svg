@@ -1,0 +1,20 @@
+<svg viewBox="0 0 260 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle opacity="0.15" cx="130" cy="39" r="20" fill="var(--color-primary)"/>
+<circle cx="130" cy="39" r="8" fill="var(--color-primary)"/>
+<rect opacity="0.05" x="58" y="115" width="144" height="46" rx="4" fill="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M141.375 66L130 53L118.625 66H62C59.7909 66 58 67.7909 58 70V154C58 156.209 59.7909 158 62 158H198C200.209 158 202 156.209 202 154V70C202 67.7909 200.209 66 198 66H141.375Z" fill="var(--color-bg)" fill-opacity="0.9"/>
+<path d="M130 53L130.753 52.3415L130 51.4814L129.247 52.3415L130 53ZM141.375 66L140.622 66.6585L140.921 67H141.375V66ZM118.625 66V67H119.079L119.378 66.6585L118.625 66ZM129.247 53.6585L140.622 66.6585L142.128 65.3415L130.753 52.3415L129.247 53.6585ZM119.378 66.6585L130.753 53.6585L129.247 52.3415L117.872 65.3415L119.378 66.6585ZM62 67H118.625V65H62V67ZM59 70C59 68.3431 60.3431 67 62 67V65C59.2386 65 57 67.2386 57 70H59ZM59 154V70H57V154H59ZM62 157C60.3431 157 59 155.657 59 154H57C57 156.761 59.2386 159 62 159V157ZM198 157H62V159H198V157ZM201 154C201 155.657 199.657 157 198 157V159C200.761 159 203 156.761 203 154H201ZM201 70V154H203V70H201ZM198 67C199.657 67 201 68.3431 201 70H203C203 67.2386 200.761 65 198 65V67ZM141.375 67H198V65H141.375V67Z" fill="var(--color-contrast-low)"/>
+<circle cx="185" cy="82" r="9" fill="var(--color-contrast-low)"/>
+<path d="M181 78L189 86" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M189 78L181 86" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="68" y="77" width="60" height="10" fill="var(--color-contrast-high)"/>
+<rect x="68" y="98" width="124" height="8" fill="var(--color-contrast-low)"/>
+<rect x="68" y="111" width="91" height="8" fill="var(--color-contrast-low)"/>
+<rect x="68" y="135" width="14" height="8" fill="var(--color-contrast-low)"/>
+<rect x="150" y="131" width="42" height="16" rx="2" fill="var(--color-primary)"/>
+<rect x="104" y="131" width="42" height="16" rx="2" fill="var(--color-contrast-low)"/>
+<path d="M173 143L177 139L173 135" stroke="var(--color-bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M177 139H165" stroke="var(--color-bg)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M123 135L119 139L123 143" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M119 139L131 139" stroke="var(--color-contrast-high)" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
